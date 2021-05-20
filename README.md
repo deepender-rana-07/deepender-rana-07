@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Deepender Rana
-- 👀 I’m interested in web developement
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning different frameworks and libraries
 - 📫 Contact No. 9418416049 
 
